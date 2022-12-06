@@ -1,0 +1,7 @@
+/*This is an external CSS*/ 
+.Lyrics{
+	font-style: oblique; line-height: 25px; letter-spacing: 1px;
+}
+.Decor1,.Decor2{
+	text-decoration: underline;
+}
